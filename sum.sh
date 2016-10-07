@@ -1,4 +1,4 @@
-#!/usr/bin/zsh
+#!/usr/bin/bash
 sum=0
 total=
 while [ ! $sum -eq 10 ]; do
